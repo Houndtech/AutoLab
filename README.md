@@ -2,13 +2,25 @@
 
 Simple hydration kit for local test labs
 
-## State
+## Overview
+
+    <Insert Sceneraio Local Lab>
+
+### Current State
 
 * Status - Initial development
 * Current release version - None
 * Next Release version - 0.1.0
 
-## High level requirements
+### Version Notes
+
+Version notes and documentation available after release 0.3.0
+
+### Version Requirements
+
+* PowerShell 7
+
+## Goals
 
 1. Module-only implementation "Lc.Autolab"
 1. Support Parallelism
@@ -17,6 +29,7 @@ Simple hydration kit for local test labs
 1. Support Cross-platform
 1. Availability on PSGallery on release 1.0.0
 
-## Version Notes
+## Non-Goals
 
-Version notes and documentation available after release 0.3.0
+1. Support for Windows PowerShell 5.x
+1. Support for PowerShell 6.x
